@@ -5,11 +5,6 @@ theme:
 nav:
   - Home: index.md
   - Games:
-      - To Play: games/todo.md
-      - Progress Log: games/log.md
-  - Movies:
-      - Watchlist: movies/watchlist.md
-  - Projects:
-      - Dev Journal: projects/devlog.md
+      - To Play: games/df.md
   - Journal:
-      - Thoughts: journal/index.md
+      - Main page: index.md
