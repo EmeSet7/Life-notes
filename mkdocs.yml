@@ -8,8 +8,8 @@ theme:
   name: material
   palette:
     - scheme: slate
-      primary: grey
-      accent: black
+      primary: white
+      accent: light grey
 
 nav:
   - Home: index.md
