@@ -15,6 +15,7 @@ Left         | Center        | Right
 Left         | Center        | Right
 
 
-also wabt some new line stuff-
-like this? 
-dont know
+also wabt some new line stuff-  
+like this?  
+dont know. 
+yes😎
