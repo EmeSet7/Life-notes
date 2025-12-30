@@ -10,8 +10,8 @@
   
 -Fridays can be used for weakly releases, meaning, if there is an album to be release that week, it can be used as the album for Friday.
 
-- Speacial seasons cam be used as a theme for albums, respecting the year and order we are in.
-- 
+-Special seasons can be used as a theme for albums, respecting the year and order we are in.
+
 -All albums must be logged and a rating can be given, optional
 
 -A favorite song must be picked from each album, multiple is allowed
@@ -20,7 +20,7 @@
 
 -Rules will be added as neeeded but never changed or vent, its not a challenge if we modify the rules as we please
 
-##Links for lists and Sporify playlist.  
+##Links for lists and stuff
 -
 
 -
