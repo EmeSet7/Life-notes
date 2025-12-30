@@ -13,7 +13,10 @@ theme:
 
 nav:
   - Home: index.md
+  - Music:
+    - Album a Day: album/aad.md
+    - Best Ever: album/top.md
   - Games: 
-    - Journal: gaming/df.md
+    - DF: gaming/df.md
 
 
