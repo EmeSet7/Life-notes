@@ -1,2 +1,2 @@
-# Life-notes
+# Digital Garden
 MkDocs garden
