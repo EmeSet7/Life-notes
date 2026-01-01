@@ -10,7 +10,11 @@
   
 -Fridays can be used for weakly releases, meaning, if there is an album to be release that week, it can be used as the album for Friday.
 
+-Fridays can also be used to a personal pick, aswell as Mondays
+
 -Special seasons can be used as a theme for albums, respecting the year and order we are in.
+
+-Holidays or/and vacations can be flacky and i might bow even show up, those days het backlogged, they have ro
 
 -All albums must be logged and a rating can be given, optional
 
