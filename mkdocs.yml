@@ -9,14 +9,15 @@ theme:
   palette:
     - scheme: slate
       primary: white
-      accent: light grey
+      accent: black
 
 nav:
   - Home: index.md
   - Music:
-    - Album a Day: album/aad.md
-    - Best Ever: album/top.md
+    - An Album a Day: album/aad.md
+    - The Best: album/top.md
   - Games: 
-    - DF: gaming/df.md
+    - Dwarf Fortress: gaming/df.md
+    - Motor Town:
 
 
