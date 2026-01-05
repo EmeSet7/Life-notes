@@ -24,6 +24,8 @@ Musicboard must also ve logged and a Spotify playlist will be updated as soon as
 
 Rules will be added as neeeded but never changed or vent, its not a challenge if we modify the rules as we please
 
+![Cover 1](covers/IMG_9209.jpeg)
+
 ##Links for lists and stuff
 
 Spotify:
