@@ -2,8 +2,8 @@ site_name: Digital Garden
 
 theme:
   features:
-    - navigation.instant
-    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - toc.integrate
   name: material
