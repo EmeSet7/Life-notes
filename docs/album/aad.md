@@ -26,7 +26,7 @@ Rules will be added as neeeded but never changed or vent, its not a challenge if
 
 ![Cover 1](covers/IMG_9209.jpeg)
 
-!(covers/ab67616d00001e02fbcaf7402f38faac27610efc.jpeg)
+![Cover 1](covers/ab67616d00001e02fbcaf7402f38faac27610efc.jpeg)
 
 ##Links for lists and stuff
 
