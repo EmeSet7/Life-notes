@@ -30,7 +30,7 @@ Stray dog has matured, bredding of dogs is now possible.
 
 War dog training into consideration.  
 
-## Summer
+### Summer
 
 #### Infrastructure
 
