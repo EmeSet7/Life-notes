@@ -11,3 +11,11 @@ First Header | Second Header | Third Header
 :----------- |:-------------:| -----------:
 Left         | Center        | Right
 Left         | Center        | Right
+
+
+also, important links:
+
+
+https://pawamoy.github.io/mkdocs-gallery/#material-for-mkdocs
+
+https://emeset7.github.io/digital-garden/
