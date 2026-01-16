@@ -2,7 +2,7 @@
 
 - World: Emeathira "The Eternal Planes"
 - Civilization: The Blotted Construct
-- Risenhames Outpost
+- Fortress: Risenhames
 - Expedition Leader: Lorbam Sharkrings, 55 M
 
 ## Year 100
@@ -99,3 +99,21 @@ Soon after, said dingo, reverted to wild so... time to take it out
 Some open arteries and severed parts later the dingo is dealt with, all normal again  
 Some stuff happened after all  
 
+## Year 101
+
+### Spring
+
+Sping again, nearly a year has passed since our arrival, the fort is coming along
+
+#### Population
+
+A child has born, we are now 19 dwarves
+
+
+#### Animals  
+
+Some more puppies were born, our war dogs will come alonge after all
+
+#### Mining
+
+A starcase down is being made, we hope to discover more minerals and precious stones and in case we reach, a cavern  
