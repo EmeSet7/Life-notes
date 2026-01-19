@@ -1,5 +1,8 @@
 site_name: Digital Garden
 
+markdown_extensions:
+  - attr_list
+
 theme:
   features:
    - navigation.sections
