@@ -91,7 +91,7 @@ Soon after 2 more puppies born, it was more that one after all
 
 ### Winter
 
-#### Animals
+#### Animals {.no-toc}
 
 Very uneventful winter, a cat has grown up and the rooms construction on the lower floor is coming along, soon some bed rooms will be assigned
 Now the dingo, the caged and being trained in our fort one is picking a fight, on the first interaction we stay put but ready, the squad was called
@@ -105,15 +105,15 @@ Some stuff happened after all
 
 Sping again, nearly a year has passed since our arrival, the fort is coming along
 
-#### Population
+#### Population {.no-toc}
 
 A child has born, we are now 19 dwarves
 
 
-#### Animals  
+#### Animals {.no-toc}  
 
 Some more puppies were born, our war dogs will come alonge after all
 
-#### Mining
+#### Mining {.no-toc}
 
 A starcase down is being made, we hope to discover more minerals and precious stones and in case we reach, a cavern  
