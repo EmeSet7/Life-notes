@@ -7,7 +7,7 @@ theme:
     - navigation.tracking
     - toc.integrate
     
-  name: material
+  name: terminal
   palette:
     - scheme: slate
       primary: white
