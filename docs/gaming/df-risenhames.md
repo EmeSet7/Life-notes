@@ -9,6 +9,7 @@
 
 ### Spring
 
+
 <h4>Infrastructure</h4>
 
 Entrance to the fort.  
@@ -18,20 +19,24 @@ Stockpiles were implemented.
 Wood is defined.  
 Pasture is defined as well. 
 
+
 <h4>Animals</h4>
 
 Only same sex animals from the species worth breeding, we need to trade some animals in the next trader visit.  
 Some animals have aged.  
 
+
 <h4>Population</h4>
 
 Stray dog has matured, bredding of dogs is now possible.  
+
 
 <h4>Military</h4>
 
 War dog training into consideration.  
 
 ### Summer
+
 
 <h4>Infrastructure</h4>
 
@@ -40,10 +45,12 @@ The butcher shop and trading post will be relocated inside, defenses are a prior
 Some more workshops were made, the fort is looking a bit confusing, a stair going down was ordered and a more organized fort will be planned out below  
 Offices were also improvised beside our hall, the bookeeper Imush is hard at work    
 
+
 <h4>Population</h4>
 
 Some migrantes came, it seems they brough 2 dwarves children, how nice , promply (after some in truth) childern were forbiden of labor. They will age and work for many years, we don't want them to resent the creator for working when still a child   
 Some animals came too, a pet lamb and a donkey. the Lamb is named Eden, a male  
+
 
 <h4>Military</h4>
 
@@ -59,6 +66,7 @@ The dogs were at a horse again, this time the dwarves let it be as it was far an
 
 ### Autumn
 
+
 <h4>Events</h4>
 
 Miasma has erupted in the corridor, right by the horse that is dead for months and apparentlly isn't worth taking out to the refuse pile  
@@ -69,9 +77,11 @@ A bunch of dingos appeared and apparentlly some tried to enter the fort, one was
 It's time to hide inside given this "attack", 11 dingos on the loose, 1 more caged  
 The population hidden for a bit but the dingos didn't seem that great of a threat so they will keep an eye of each other but free to work again  
 
+
 <h4>Infrastrures</h4>
 
 The downstairs "fort" is going well, is being planned all the way, oak floors, feather wood in the rooms, smooth walls, nice doors (all the same materials). It's going along  
+
 
 <h4>Trading</h4>
 
@@ -79,10 +89,12 @@ Some gems were traded for a female donkey
 The caravan had an intersting scrool but way to expensive for our humble fort for now
 We requested some yak cows for next year, we might have more goods then and trade in a companion to our male yak  
 
+
 <h4>Population</h4>
 
 Some more migrants arrived and soon after all tasks were defined  
 They arrived just in time, more working hands were indeed needed. Dormitory needs an urgent expansion
+
 
 <h4>Animals</h4>
 
@@ -90,6 +102,7 @@ The dogs made puppies, one puppy but, enough for now
 Soon after 2 more puppies born, it was more that one after all  
 
 ### Winter
+
 
 <h4>Animals</h4>
 
@@ -105,6 +118,7 @@ Some stuff happened after all
 
 Sping again, nearly a year has passed since our arrival, the fort is coming along
 
+
 <h4>Population</h4>
 
 A child has born, we are now 19 dwarves
@@ -114,7 +128,7 @@ A child has born, we are now 19 dwarves
 
 Some more puppies were born, our war dogs will come alonge after all
 
+
 <h4>Mining</h4>
 
-
-A starcase down is being made, we hope to discover more minerals and precious stones and in case we reach, a cavern  
+A staircase down is being made, we hope to discover more minerals and precious stones and in case we reach, a cavern  
