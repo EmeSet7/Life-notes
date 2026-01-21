@@ -1,5 +1,7 @@
 #Dwarf Fortress
 
-Here I'm going to post some game stuff but mainly my journal of the forts
+### Active
 
-Fort: (cant remember the name)
+##### Risenhames [An Internal Link to a Section Heading](df-risenhames)
+
+Learning the game still
