@@ -2,6 +2,6 @@
 
 ### Active
 
-##### [Risenhames] (/df-risenhames)
+##### [Risenhames](/df-risenhames)
 
 Learning the game still
