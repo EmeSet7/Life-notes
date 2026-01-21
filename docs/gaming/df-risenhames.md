@@ -126,9 +126,35 @@ A child has born, we are now 19 dwarves
 
 <h4>Animals</h4>
 
-Some more puppies were born, our war dogs will come alonge after all
+Some more puppies were born, our war dogs will come along after all, 3 of them for now until the pupppier age  
 
 
 <h4>Mining</h4>
 
 A staircase down is being made, we hope to discover more minerals and precious stones and in case we reach, a cavern  
+
+### Summer
+
+Training begins and so it needs, until now only the Militia commander has some fighting skill. Not conserning at all
+We have visitors, as of 27th Hematite (in case something goes missing and we have to check the records)
+Let's hide our precious stuff, 2 humans came along (and 2 dwarves)
+A baby was born, Thob had a boy
+The Squad, The Creative Heroes, decided to go on a mission, why? Death wish if you ask anyone else...
+The raid will take place in the human castle of Pearsaviors, population <10 so maybe empty?
+We are at peace with them so the squad will be carefull but, artifacts are rumoured to be here, who knows
+And soon enough, they returned already
+There was a fight, was not expecting that. We might be in trouble with their people now.
+Correction, we are in trouble with their people, ops
+So next mission, demand tribute, why not?? The squad made it in one piece against some humans, they are less now so, easier
+The 4 visitors are still here, kind of locked in the tavern's dormitory
+I say kind of because there is no lock but they entered and are just there, with the tavern next door
+It seems that there is no one there, the report came empty
+Time to knock on others door
+One more raid there, pillage the place for good
+ The squad got some stuff, it's left to see if it's a artifact but some stuff
+ Our attacks for now are done, time to train harder
+
+The squad brought home a scroll, the first literature in our community, it's a win to their eyes
+
+ Another season that no migrants were interested in our community, i don't blame them, valuable items are not being produced, materials are still in the rough
+ 
