@@ -2,6 +2,6 @@
 
 ### Active
 
-##### [Risenhames](/digital-garden/docs/gaming/df-risenhames)
+##### [Risenhames](/digital-garden/gaming/df-risenhames)
 
 Learning the game still
