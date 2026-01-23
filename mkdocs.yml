@@ -27,10 +27,8 @@ nav:
     - The Best: album/top.md
   - Games:
     - Intro: gaming/index.md
-      - Testing: gaming/df-plans.md
-    - Risenhames (Active): gaming/df-risenhames.md
-    - DF plans: gaming/df-plans.md
+    - DF Risenhames (Active): gaming/df-risenhames.md
+    - DF (inactive):
     - Motor Town: gaming/mtown.md
-      - Testing: gaming/df-plans.md
 
 
