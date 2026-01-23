@@ -23,10 +23,9 @@ nav:
     - An Album a Day: album/aad-2026.md
     - The Best: album/top.md
   - Games:
-    - Dwarf Fortress:
-      - Intro: gaming/df.md
-      - Risenhames (Active): gaming/df-risenhames.md
-      - DF plans: gaming/df-plans.md
+    - Intro: gaming/index.md
+    - Risenhames (Active): gaming/df-risenhames.md
+    - DF plans: gaming/df-plans.md
     - Motor Town: gaming/mtown.md
 
 

@@ -1,7 +1,6 @@
-# Fortress Plan
+# Fortress Plans
 
-```mermaid  
-flowchart LR
+Here i'm going to "plan" stuff out
 
     A1[" "] --- A2["Farm"] --- A3[" "]
     B1[" "] --- B2["Stairs"] --- B3[" "]

@@ -1,8 +1,8 @@
 # Digital Garden
 
 Welcome to my digital garden, as ChatGPT called it
-Here you can find various resources and informations avout different subjects, from modding (homebrew) to recipes
-I qill be adding stuff here, hopefully daily as I plan to start yet again the "Album a Day" challenge for 2026
+Here you can find various resources and information about different subjects, from modding (homebrew) to recipes  
+I will be adding stuff here, hopefully daily as I plan to start yet again the "Album a Day" challenge for 2026  
 So stick around and write me at: (to be announced)
 
 also, table testing:
@@ -21,5 +21,3 @@ https://pawamoy.github.io/mkdocs-gallery/#material-for-mkdocs
 https://emeset7.github.io/digital-garden/
 
 
-19/01 testing again
-test 2
