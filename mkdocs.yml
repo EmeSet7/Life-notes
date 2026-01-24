@@ -7,14 +7,11 @@ theme:
    - navigation.tracking
    - toc.integrate
     
-  name: github
+  name: material
   palette:
     - scheme: slate
       primary: black
-      accent: black
-      
-  highlightjs: true
-  hljs_style: github    
+      accent: black  
 
 nav:
   - Home: index.md
